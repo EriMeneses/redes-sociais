@@ -42,3 +42,20 @@ iframe#tela{
     height: 600px;
     border-radius: 20px;
 }
+
+section#redes{
+    text-align: right;
+}
+
+section#redes img{
+    border-radius: 50%;
+    width: 50px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+section#redes img:hover{
+    border: 2px solid white;
+    transform: translate(-3px, -3px);
+    transition: 0.5s;
+}
