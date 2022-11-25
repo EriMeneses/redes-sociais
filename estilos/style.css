@@ -34,16 +34,16 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 700px;
-    width: 500px;
+    height: 665px;
+    width: 299px;
     background:url('../pacote-d013/imagens/redminote10.png') no-repeat;
     
     
 }
 iframe#tela{
     position: relative;
-    top: 15px;
-    left: 182px;
+    top: 13px;
+    left: 14px;
     width: 270px;
     height: 600px;
     border-radius: 20px;
